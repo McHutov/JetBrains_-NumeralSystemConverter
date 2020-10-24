@@ -3,12 +3,12 @@
 /target
 *.iml
 /gradle
+/gradle/wrapper
 *.gradle
-*.yaml
 /gradlew.bat
 *.bat
 *.html
 *.jar
-/build.gradle
-/course-info.yaml
-/course-remote-info.yaml
+*.yml
+*.txt
+
