@@ -1,6 +1,7 @@
 /.idea
 /out
 /target
+/.gradle
 *.iml
 /gradle
 */gradle/wrapper
