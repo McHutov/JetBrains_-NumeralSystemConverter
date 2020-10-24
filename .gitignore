@@ -3,7 +3,7 @@
 /target
 *.iml
 /gradle
-/gradle/wrapper
+*/gradle/wrapper
 *.gradle
 /gradlew.bat
 *.bat
@@ -11,4 +11,5 @@
 *.jar
 *.yml
 *.txt
+
 
