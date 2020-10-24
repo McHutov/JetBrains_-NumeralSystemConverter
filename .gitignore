@@ -2,5 +2,9 @@
 /out
 /target
 *.iml
-/Numeral System Converter
-/Problems
+/gradle
+*.gradle
+*.yaml
+/gradlew
+/.bat
+*.html
