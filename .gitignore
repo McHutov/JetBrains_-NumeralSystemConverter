@@ -6,5 +6,7 @@
 *.gradle
 *.yaml
 /gradlew
-/.bat
+*.bat
 *.html
+*.jar
+*.
